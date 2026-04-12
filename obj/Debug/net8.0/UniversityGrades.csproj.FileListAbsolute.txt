@@ -1,0 +1,85 @@
+E:\claude\test1\bin\Debug\net8.0\appsettings.Development.json
+E:\claude\test1\bin\Debug\net8.0\appsettings.json
+E:\claude\test1\bin\Debug\net8.0\UniversityGrades.exe
+E:\claude\test1\bin\Debug\net8.0\UniversityGrades.deps.json
+E:\claude\test1\bin\Debug\net8.0\UniversityGrades.runtimeconfig.json
+E:\claude\test1\bin\Debug\net8.0\UniversityGrades.dll
+E:\claude\test1\bin\Debug\net8.0\UniversityGrades.pdb
+E:\claude\test1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\claude\test1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\claude\test1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\claude\test1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\claude\test1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.csproj.AssemblyReference.cache
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.GeneratedMSBuildEditorConfig.editorconfig
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.AssemblyInfoInputs.cache
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.AssemblyInfo.cs
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.csproj.CoreCompileInputs.cache
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.MvcApplicationPartsAssemblyInfo.cs
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.MvcApplicationPartsAssemblyInfo.cache
+E:\claude\test1\obj\Debug\net8.0\staticwebassets.build.json
+E:\claude\test1\obj\Debug\net8.0\staticwebassets.development.json
+E:\claude\test1\obj\Debug\net8.0\staticwebassets\msbuild.UniversityGrades.Microsoft.AspNetCore.StaticWebAssets.props
+E:\claude\test1\obj\Debug\net8.0\staticwebassets\msbuild.build.UniversityGrades.props
+E:\claude\test1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UniversityGrades.props
+E:\claude\test1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UniversityGrades.props
+E:\claude\test1\obj\Debug\net8.0\staticwebassets.pack.json
+E:\claude\test1\obj\Debug\net8.0\scopedcss\bundle\UniversityGrades.styles.css
+E:\claude\test1\obj\Debug\net8.0\Universi.C4BFD36B.Up2Date
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.dll
+E:\claude\test1\obj\Debug\net8.0\refint\UniversityGrades.dll
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.pdb
+E:\claude\test1\obj\Debug\net8.0\UniversityGrades.genruntimeconfig.cache
+E:\claude\test1\obj\Debug\net8.0\ref\UniversityGrades.dll
+e:\claude\test1\obj\Debug\net8.0\UniversityGrades.sourcelink.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\appsettings.Development.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\appsettings.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.staticwebassets.endpoints.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.exe
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.deps.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.runtimeconfig.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\UniversityGrades.pdb
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.csproj.AssemblyReference.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.AssemblyInfoInputs.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.AssemblyInfo.cs
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.csproj.CoreCompileInputs.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.MvcApplicationPartsAssemblyInfo.cs
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.MvcApplicationPartsAssemblyInfo.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\scopedcss\bundle\UniversityGrades.styles.css
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\staticwebassets.build.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\staticwebassets.development.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\Universi.C4BFD36B.Up2Date
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\refint\UniversityGrades.dll
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.pdb
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\UniversityGrades.genruntimeconfig.cache
+D:\CONOCIMIENTOS\umg\10MO SEMESTRE\INGENIERÍA DE SOFTWARE\Modulo II\Modulo II\3_28032026\proyecto_universidad_demo\proyecto_universidad_demo\obj\Debug\net8.0\ref\UniversityGrades.dll

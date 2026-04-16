@@ -1,0 +1,23 @@
+name: Build
+
+on:
+  workflow_call:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restaurar dependencias
+        run: dotnet  restore UniversityGrades.csproj
+
+      - name: Compilar solución
+        run: dotnet build UniversityGrades.csproj --no-restore

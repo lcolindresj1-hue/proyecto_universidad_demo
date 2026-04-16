@@ -1,0 +1,14 @@
+name: CI_Develop
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+jobs:
+  build:
+    uses: ./.github/workflows/Build.yml
+
+  test:
+    needs: build
+    uses: ./.github/workflows/Test.yml
